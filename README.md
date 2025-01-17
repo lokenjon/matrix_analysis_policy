@@ -1,7 +1,7 @@
-# Privacy Policy for Matrix Analysis App
+# Privacy Policy for Acupuncture Tools App
 
 ## 1. Introduction
-This Privacy Policy explains how the Matrix Analysis app ("we", "us", or "our") collects, uses, and protects information when you use our mobile application (the "App"). The App is designed for acupuncturists who follow Dr. Tan methodologies and does not collect or store personal user data.
+This Privacy Policy explains how the Acupuncture Tools app ("we", "us", or "our") collects, uses, and protects information when you use our mobile application (the "App"). The App is designed for acupuncturists who use Dr. Tan methodologies, Five Element acupuncture or standard TCM. It does not collect or store personal user data.
 
 ## 2. Information We Collect
 The App uses Google Firebase Analytics to collect anonymous usage data and crash reports. This includes:
@@ -29,7 +29,7 @@ Crashlytics data (part of Firebase Analytics) is retained for 90 days, after whi
 As we do not collect personal data, there is no user-specific data to access, modify, or delete. However, if you have any questions or concerns about this privacy policy or the app's data practices, you can contact us via email provided in the app.
 
 ## 7. Children's Privacy
-The Matrix Analysis app is not directed at or intended for use by children under the age of 13. We do not knowingly collect any information from children under 13.
+The Acupuncture Tools app is not directed at or intended for use by children under the age of 13. We do not knowingly collect any information from children under 13.
 
 ## 8. Security
 While we do not collect personal user data, we are committed to ensuring the security of our app and the anonymous data collected through Firebase Analytics. 
@@ -43,4 +43,4 @@ This Privacy Policy is governed by the laws of Norway, as the app developer is b
 ## 11. Contact Us
 If you have any questions about this Privacy Policy, please contact us using the email address provided in the app.
 
-Last updated: 29.08.2024
+Last updated: 17.01.2025
